@@ -1,5 +1,5 @@
 import hero_logo from "../assets/svgs/herosection_logo.svg";
-import bg_hero_image from "../assets/hero_bg.webp";
+import bg_hero_image from "../assets/bg_image.png";
 
 export default function HeroSection() {
   return (
