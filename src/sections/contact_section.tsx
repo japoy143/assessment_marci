@@ -1,4 +1,3 @@
-import React from "react";
 import contact_image from "../assets/contact_img.png";
 import PhoneSvg from "../assets/svgs/phone";
 import MapSvg from "../assets/svgs/map";

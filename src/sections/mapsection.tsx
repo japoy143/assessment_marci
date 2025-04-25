@@ -1,5 +1,3 @@
-import React from "react";
-
 export default function MapSection() {
   return (
     <section className=" py-12 w-screen h-[300px]">

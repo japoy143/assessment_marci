@@ -1,6 +1,3 @@
-import React from "react";
-import kitchen from "../assets/kitchen.webp";
-
 export default function FindYourHomeCard({
   imageSrc,
   imageName,

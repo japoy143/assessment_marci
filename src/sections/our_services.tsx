@@ -1,4 +1,3 @@
-import React from "react";
 import { OurServicesCardType } from "../type";
 import HotelSvg from "../assets/svgs/hotel";
 import HouseSvg from "../assets/svgs/house";

@@ -1,4 +1,3 @@
-import React from "react";
 import link1 from "../assets/svgs/links1.svg";
 import link2 from "../assets/svgs/links2.svg";
 import link3 from "../assets/svgs/links3.svg";

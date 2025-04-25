@@ -1,5 +1,3 @@
-import React from "react";
-
 export default function Get_It_Sold_Card({
   imgSource,
   imgName,

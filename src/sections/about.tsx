@@ -1,4 +1,3 @@
-import React from "react";
 import marci from "../assets/marci.webp";
 import About_Me_Description from "../components/about_me_description";
 

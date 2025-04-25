@@ -1,4 +1,3 @@
-import React from "react";
 import Get_It_Sold_Card from "../components/get_it_sold_card";
 import kitchen from "../assets/kitchen.webp";
 import house from "../assets/house.webp";

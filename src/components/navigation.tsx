@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import HamburgerMenu from "../assets/svgs/hamburger";
 
 export default function Navigation() {

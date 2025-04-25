@@ -1,4 +1,3 @@
-import React from "react";
 import hero_logo from "../assets/svgs/herosection_logo.svg";
 
 export default function HeroSection() {

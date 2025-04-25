@@ -1,4 +1,3 @@
-import React from "react";
 import { Svgprops } from "../../type";
 
 export default function ChartSvg({ fill = "none", className }: Svgprops) {

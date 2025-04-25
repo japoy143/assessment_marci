@@ -1,5 +1,3 @@
-import React from "react";
-
 export default function About_Me_Description() {
   return (
     <div className=" text-white px-0 md:px-8 py-10 max-w-4xl mx-auto font-sans text-justify">

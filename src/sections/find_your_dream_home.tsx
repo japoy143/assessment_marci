@@ -1,4 +1,3 @@
-import React from "react";
 import FindYourHomeCard from "../components/find_your_home_card";
 import kitchen from "../assets/kitchen.webp";
 import house from "../assets/house.webp";
