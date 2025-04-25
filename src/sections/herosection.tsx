@@ -1,8 +1,12 @@
 import hero_logo from "../assets/svgs/herosection_logo.svg";
+import bg_hero_image from "../assets/hero_bg.webp";
 
 export default function HeroSection() {
   return (
-    <section className=" h-screen w-screen bg-[url(../../src/assets/hero_bg.webp)] bg-cover">
+    <section
+      style={{ backgroundImage: `url(${bg_hero_image})` }}
+      className={` h-screen w-screen  bg-cover`}
+    >
       <div className=" h-full w-screen  bg-black/20 flex flex-col items-center justify-center">
         <img src={hero_logo} className=" h-[200px]" />
 
