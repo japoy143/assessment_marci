@@ -15,7 +15,12 @@ export default function TrustedPartners() {
       </h1>
       <div className=" flex mt-10 items-center justify-between ">
         {images.map((item, index) => (
-          <img key={index} src={item} alt={item} className=" h-[80px]" />
+          <img
+            key={index}
+            src={item}
+            alt={item}
+            className="h-[40px]  md:h-[80px]"
+          />
         ))}
       </div>
     </section>

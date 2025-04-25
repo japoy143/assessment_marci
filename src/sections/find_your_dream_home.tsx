@@ -182,7 +182,7 @@ export default function Find_Your_Dream_Home() {
                 <label className="text-white mb-1 text-sm">Max</label>
                 <input
                   type="text"
-                  className="bg-transparent border-b border-white text-white text-center outline-none w-24"
+                  className="bg-transparent border-b border-white text-white text-center outline-none w-full"
                   placeholder="Enter max"
                 />
               </div>
@@ -193,7 +193,7 @@ export default function Find_Your_Dream_Home() {
                 <label className="text-white mb-1 text-sm">Min</label>
                 <input
                   type="text"
-                  className="bg-transparent border-b border-white text-white text-center outline-none w-24"
+                  className="bg-transparent border-b border-white text-white text-center outline-none w-full"
                   placeholder="Enter min"
                 />
               </div>

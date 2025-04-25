@@ -12,9 +12,14 @@ export default function SocialLinks() {
       <h1 className=" font-sans text-2xl text-center tracking-widest">
         Social Links
       </h1>
-      <div className=" mt-4 flex  gap-22  justify-center">
+      <div className=" mt-4 flex  gap-10 md:gap-22  justify-center">
         {social_links.map((item, index) => (
-          <img key={index} src={item} alt={item} className=" h-[40px]" />
+          <img
+            key={index}
+            src={item}
+            alt={item}
+            className="h-[24px] md:h-[40px]"
+          />
         ))}
       </div>
     </section>

@@ -16,8 +16,8 @@ export default function Footer() {
             <img key={index} className=" h-[24px]" src={item} alt={item} />
           ))}
         </div>
-        <div>
-          <p className=" text-white/50 text-sm">
+        <div className="w-[200px] md:w-[600px] text-right">
+          <p className=" text-white/50 text-[8px] md:text-sm">
             Copyright © 2025 Marci METZGER Homes - All Rights Reserved
           </p>
         </div>
